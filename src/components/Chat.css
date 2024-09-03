@@ -1,0 +1,8 @@
+body {
+  overflow: hidden; /* Disable scrolling */
+}
+
+.main-container {
+  height: 100vh; /* Make the container fit the screen height */
+  width: 100vw;  /* Make the container fit the screen width */
+}
